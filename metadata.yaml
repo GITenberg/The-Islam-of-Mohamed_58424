@@ -1,11 +1,16 @@
 _repo: The-Islam-of-Mohamed_58424
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58424-h/images/cover.jpg
 creator:
   author:
     agent_name: Bukhsh, Salahuddin Khuda
     gutenberg_agent_id: '49947'
     url: http://www.gutenberg.org/2009/agents/49947
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58424#The-Islam-of-Mohamed
 gutenberg_issued: '2018-12-08'
 gutenberg_type: Text
 identifiers:
